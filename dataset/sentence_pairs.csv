@@ -1,0 +1,6 @@
+sentence_1_id,sentence_2_id,sentence_1,sentence_2,cosine_similarity
+12,13,Cosine similarity measures how closely two vectors point in the same direction.,A high cosine similarity score usually indicates that two sentences have related meanings.,0.6598002
+6,19,Sentence transformers are useful for comparing the meaning of different sentences.,Transformers use attention mechanisms to capture relationships between words in a sequence.,0.64127207
+5,20,Text embeddings represent sentences as numerical vectors that capture semantic meaning.,"Embeddings are important for semantic search, document retrieval, recommendation, and RAG applications.",0.5780245
+1,16,Artificial intelligence helps computers perform tasks that normally require human intelligence.,Cybersecurity systems can use artificial intelligence to detect unusual patterns and threats.,0.565419
+1,3,Artificial intelligence helps computers perform tasks that normally require human intelligence.,Natural language processing enables computers to understand and process human language.,0.5500832

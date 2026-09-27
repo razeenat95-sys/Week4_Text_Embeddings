@@ -1,0 +1,21 @@
+text
+Artificial intelligence helps computers perform tasks that normally require human intelligence.
+Machine learning allows systems to learn patterns from data and improve their predictions.
+Natural language processing enables computers to understand and process human language.
+Large language models can generate text by predicting the next token from context.
+Text embeddings represent sentences as numerical vectors that capture semantic meaning.
+Sentence transformers are useful for comparing the meaning of different sentences.
+Semantic search finds information based on meaning rather than exact keyword matching.
+Retrieval augmented generation combines document retrieval with language model generation.
+Python is widely used for building machine learning and natural language processing applications.
+"Students can use Python to preprocess text, create embeddings, and analyze similarity."
+A vector database stores numerical representations of documents for efficient similarity search.
+Cosine similarity measures how closely two vectors point in the same direction.
+A high cosine similarity score usually indicates that two sentences have related meanings.
+An unrelated sentence about cooking may have low similarity to a sentence about artificial intelligence.
+Cloud computing provides scalable resources for training and deploying machine learning models.
+Cybersecurity systems can use artificial intelligence to detect unusual patterns and threats.
+Recommendation systems use user and item information to suggest relevant content.
+Data preprocessing improves the quality of text before it is used by an embedding model.
+Transformers use attention mechanisms to capture relationships between words in a sequence.
+"Embeddings are important for semantic search, document retrieval, recommendation, and RAG applications."
